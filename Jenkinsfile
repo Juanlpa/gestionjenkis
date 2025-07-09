@@ -11,11 +11,6 @@ pipeline {
 
     stages {
 
-        stage('Clonar repositorio') {
-            steps {
-                git 'https://github.com/Juanlpa/gestionjenkis.git'
-            }
-        }
 
         stage('Levantar MySQL con Docker Compose') {
             steps {
