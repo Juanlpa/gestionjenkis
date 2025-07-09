@@ -13,7 +13,7 @@ pipeline {
 
         stage('Clonar repositorio') {
             steps {
-                git 'https://github.com/Juanlpa/gestionjenkis'
+                git 'https://github.com/Juanlpa/gestionjenkis.git'
             }
         }
 
