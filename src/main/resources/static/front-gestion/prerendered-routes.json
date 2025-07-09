@@ -1,0 +1,14 @@
+{
+  "routes": {
+    "/": {},
+    "/clientes": {},
+    "/contratos": {},
+    "/home": {},
+    "/login": {},
+    "/reembolsos": {},
+    "/reembolsos/crear": {},
+    "/reembolsos/pendientes": {},
+    "/seguros": {},
+    "/usuarios": {}
+  }
+}
